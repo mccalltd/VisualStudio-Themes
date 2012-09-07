@@ -162,6 +162,7 @@
 					</Category>
 					<Category GUID="{F9D6BCE6-C669-41DB-8EE7-DD953828685B}" FontIsDefault="Yes">
 						<Items>
+							<Item Name="Plain Text" Foreground="0x00FFFFFF" Background="0x00562401" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 						</Items>
