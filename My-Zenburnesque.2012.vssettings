@@ -72,6 +72,7 @@
 							<Item Name="HTML Server-Side Script" Foreground="0x00000000" Background="0x0062EEFF" BoldFont="No"/>
 							<Item Name="HTML Tag Delimiter" Foreground="0x0066CCFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Razor Code" Foreground="0x02000000" Background="0x00646464" BoldFont="No"/>
+							<Item Name="gherkin.stepargument" Foreground="0x008080FF" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Underlined Error Highlighting" Foreground="0x002020FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Warning" Foreground="0x007FAC7B" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Dead Code" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
