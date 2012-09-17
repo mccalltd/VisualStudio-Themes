@@ -22,7 +22,7 @@
 					</Category>
 					<Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontName="Consolas" FontSize="11" CharSet="0" FontIsDefault="No">
 						<Items>
-							<Item Name="Plain Text" Foreground="0x00DEDEDE" Background="0x00404040" BoldFont="No"/>
+							<Item Name="Plain Text" Foreground="0x00DEDEDE" Background="0x00383838" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00FF8060" BoldFont="No"/>
 							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x00E8E7E6" BoldFont="No"/>
 						</Items>
@@ -72,7 +72,8 @@
 							<Item Name="HTML Server-Side Script" Foreground="0x00000000" Background="0x0062EEFF" BoldFont="No"/>
 							<Item Name="HTML Tag Delimiter" Foreground="0x0066CCFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Razor Code" Foreground="0x02000000" Background="0x00646464" BoldFont="No"/>
-							<Item Name="gherkin.stepargument" Foreground="0x008080FF" Background="0x01000001" BoldFont="No"/>
+							<Item Name="gherkin.unboundsteptext" Foreground="0x00C893A0" Background="0x01000001" BoldFont="No"/>
+							<Item Name="gherkin.stepargument" Foreground="0x0066CCFF" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Underlined Error Highlighting" Foreground="0x002020FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Warning" Foreground="0x007FAC7B" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Dead Code" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
@@ -83,6 +84,8 @@
 							<Item Name="ReSharper ASP.NET MVC Controller" Foreground="0x00C893A0" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper ASP.NET MVC View" Foreground="0x00C893A0" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper ASP.NET RunAt attribute" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper CSS id selector" Foreground="0x00FF9E00" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ReSharper CSS keyword" Foreground="0x00FF9E00" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Highlight" Foreground="0x00000000" Background="0x00FACE87" BoldFont="No"/>
 							<Item Name="ReSharper Highlight Target" Foreground="0x00000000" Background="0x00C1B6FF" BoldFont="No"/>
 							<Item Name="ReSharper Rearrange Left/Right Code Hint" Foreground="0x00000000" Background="0x0078F9FC" BoldFont="No"/>
